@@ -4,6 +4,6 @@ This Machine Learning Assignment used Clustering algorithms (K-Means, DBScan, BI
 We excluded DBSCAN's results from our analysis for their lack of visual appeal. After evaluating the remaining 4 clustering outcomes, we suggest locating the new western
 restaurant in the upper northern area of Singapore (less competition)
 <br/><br/>
-You may access the deployed app here: https://western-restaurant-recommendation.streamlit.app/
+You may access the deployed app here: https://g3-codingapppy-n5jgak2vec62y8mvs9jffq.streamlit.app/
 <br/>
 If you are interested in the documentation, you may refer to the pdf report and slides. 
